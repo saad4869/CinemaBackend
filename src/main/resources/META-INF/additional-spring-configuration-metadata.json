@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "mapper.configure(DeserializationConfig.Feature.ACCEPT_EMPTY_STRING_AS_NULL_OBJECT,",
+      "type": "java.lang.String",
+      "description": "Description for mapper.configure(DeserializationConfig.Feature.ACCEPT_EMPTY_STRING_AS_NULL_OBJECT,."
+  }
+] }
